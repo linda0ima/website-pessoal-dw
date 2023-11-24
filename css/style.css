@@ -107,6 +107,7 @@ h2 {
 
 /*barra de navegação do primeiro container*/
 .navbar {
+  z-index:1;
   width: 100%;
   position: absolute;
   margin-top: 20px;
